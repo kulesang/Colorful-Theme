@@ -35,7 +35,7 @@
 *  5.反向代理到您输入的端口或者默认端口 3000 
 
 ### 配置文件说明
-## config.json
+#### config.json
 *  "siteName": "网站名称",
 *  "showLandingPage": true,   (落地页开关，true为开启/false为关闭)
 *  "logoUrl": "图片LOGO，如无图片LOGO则显示网站名称",
@@ -43,7 +43,7 @@
 *  "siteDescription": "首页副标题",
 *  "copyright": "版权信息"
 
-## clientConfig.json
+#### clientConfig.json
 *  "name": "客户端名", 
 *  "platform": "客户端系统", 
 *  "icon": "客户端图标",  
