@@ -1,0 +1,1 @@
+import{r as s}from"./_plugin-vue_export-helper-CwKUxaPK.js";const e=t=>s.post("/passport/auth/login",t),o=t=>s.post("/passport/auth/register",t),a=t=>s.post("/passport/auth/forget",t),n=()=>s.get("/guest/comm/config"),g=t=>s.post("/passport/comm/sendEmailVerify",t),p=()=>s.get("/guest/plan/fetch");export{p as a,a as f,n as g,e as l,o as r,g as s};
