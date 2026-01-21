@@ -6,7 +6,7 @@
                 {
                     "name": "Clash Verge",
                     "platform": "Windows",
-                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",
+                    "icon": "/images/clients/Clash.webp",
                     "url": "https://clashverge.dev/",
                     "tutorial_url": "",
                     "tutorial_id": "2"
@@ -14,7 +14,7 @@
                 {
                     "name": "Surfboard",
                     "platform": "Android",
-                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Surfboard.8vn3vv8ggg.svg",
+                    "icon": "/images/clients/Surfboard.svg",
                     "url": "https://manual.getsurfboard.com/",
                     "tutorial_url": "",
                     "tutorial_id": "3"
@@ -27,7 +27,7 @@
                 {
                     "name": "Clash Verge",
                     "platform": "macOS",
-                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Clash.9gwri62wr1.webp",
+                    "icon": "/images/clients/Clash.webp",
                     "url": "https://clashverge.dev/",
                     "tutorial_url": "",
                     "tutorial_id": "4"
@@ -35,7 +35,7 @@
                 {
                     "name": "Shadowrocket",
                     "platform": "iOS",
-                    "icon": "https://github.com/dc8683/picx-images-hosting/raw/master/rocket/Shadowrocket.8z6ptl1j67.webp",
+                    "icon": "/images/clients/Shadowrocket.webp",
                     "url": "https://apps.apple.com/app/shadowrocket/id932747118",
                     "tutorial_url": "",
                     "tutorial_id": "5"
