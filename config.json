@@ -9,4 +9,9 @@
     "copyright": "底部版权信息",
     "landingPageStyle": "style1",
     "enableDailyCheckin": true
+    "telegramSupport": "https://t.me/your_support_bot",
+    "supportEmail": "support@example.com",
+    "supportHours": "7x24 小时在线客服",
+    "chatWorkerUrl": ""
+    
 }
