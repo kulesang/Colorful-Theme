@@ -9,9 +9,9 @@
 ## 主题信息
 
 * 适配后端面板： [**v2board**](https://github.com/v2board/v2board) \ [**wyxboard**](https://github.com/wyx2685/v2board) \ [**xboard**](https://github.com/cedar2025/Xboard)
-* 主题频道：[🚀 Colorful Theme](https://t.me/Neonthemes)
-* 交流群组：[💬 Colorful Theme 主题交流群](https://t.me/Neontheme)
-* 在线客服：[🏄‍♂️ Colorful Theme ](https://t.me/@kulesang)
+* 主题频道：[🚀 Colorful Theme]()
+* 交流群组：[💬 Colorful Theme 主题交流群]()
+* 在线客服：[🏄‍♂️ Colorful Theme ]()
 
 ## 在线预览
 
